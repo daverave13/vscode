@@ -1,0 +1,25 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "explorer.confirmDelete": false,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "cfml": "html"
+    },
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\wsl.exe",
+    "editor.formatOnSave": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontFamily": "Hasklig",
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Code Blue",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.tokenColorCustomizations": {
+        "comments": "#1d8133"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[css]": {
+        "editor.defaultFormatter": "michelemelluso.code-beautifier"
+    },
+    "window.zoomLevel": 0,
+}
